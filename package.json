@@ -1,6 +1,6 @@
 {
   "name": "@tremby/react-imgix",
-  "version": "9.5.5-bjn.1",
+  "version": "9.5.5-bjn.2",
   "description": "React Component for displaying an image from Imgix",
   "author": "Frederick Fogerty <frederick.fogerty@gmail.com> (https://github.com/frederickfogerty)",
   "contributors": [
