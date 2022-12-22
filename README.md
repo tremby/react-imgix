@@ -9,3 +9,4 @@ You can install and use the regular upstream types via `npm i -D @types/tremby__
 ## Changes in this fork
 
 - Allow width and height attributes on fluid images (https://github.com/imgix/react-imgix/issues/891)
+- Allow width and height attributes on source elements
