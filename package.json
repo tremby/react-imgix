@@ -1,9 +1,10 @@
 {
-  "name": "react-imgix",
+  "name": "@tremby/react-imgix",
   "version": "9.5.4",
   "description": "React Component for displaying an image from Imgix",
   "author": "Frederick Fogerty <frederick.fogerty@gmail.com> (https://github.com/frederickfogerty)",
   "contributors": [
+    "Bart Nagel <bart@tremby.net>",
     "Frederick Fogerty <frederick.fogerty@gmail.com> (https://github.com/frederickfogerty)",
     "Max Kolyanov (https://github.com/maxkolyanov)",
     "Sherwin Heydarbeygi <sherwin@imgix.com> (https://github.com/sherwinski)",
@@ -14,13 +15,13 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imgix/react-imgix/issues"
+    "url": "https://github.com/tremby/react-imgix/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imgix/react-imgix.git"
+    "url": "git+https://github.com/tremby/react-imgix.git"
   },
-  "homepage": "https://github.com/imgix/react-imgix#readme",
+  "homepage": "https://github.com/tremby/react-imgix#readme",
   "keywords": [
     "react"
   ],
